@@ -1,0 +1,31 @@
+.bg-purple{
+    background-color: #5e209f;
+}
+
+.text-navbar{
+    color: white !important;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.text-navbar:hover{
+    background-color: white;
+    color: black !important;
+    transition: 0.5s;
+}
+
+.logo-navbar{
+    color: white !important;
+    font-weight: bold !important;
+}
+.logo-navbar:hover{
+    color: black !important;
+    transition: 0.5s;
+}
+
+.navbar-toggler{
+    border: 1px solid white !important;
+}
+.navbar-toggler-icon{
+    background-image: url("data:image/svg+xml,%3csvg xmlns=%27http://www.w3.org/2000/svg%27 viewBox=%270 0 30 30%27%3e%3cpath stroke=%27rgba%282560, 2560, 2560, 2560.55%29%27 stroke-linecap=%27round%27 stroke-miterlimit=%2710%27 stroke-width=%272%27 d=%27M4 7h22M4 15h22M4 23h22%27/%3e%3c/svg%3e") !important;
+}
